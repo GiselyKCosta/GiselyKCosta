@@ -1,4 +1,4 @@
-# 👩‍💻 Engenheira de Dados em Construção | De peixes a pipelines
+# 👩‍💻 Análise de dados | De peixes a pipelines
 
 👋 Oi! Sou a Gisely, engenheira de pesca migrando para a área de dados.  
 Atualmente, foco em **engenharia de dados**, especificamente em **pipelines ETL**, **análise de dados** e **visualização de informações**.  
