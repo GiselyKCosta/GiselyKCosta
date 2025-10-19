@@ -5,9 +5,9 @@ Atualmente, foco em **engenharia de dados**, especificamente em **pipelines ETL*
 
 
 ## 📚 Atualmente aprendendo
-Aprofundando meus conhecimentos em:  
+Aprofundando meus conhecimentos em:
+- **Python (Pandas, NumPy, Scikit-learn)** 
 - **SQL** e **modelagem de dados**  
-- **Sistemas distribuídos**  
 - **Orquestração de pipelines** com ferramentas como **Airflow**
 
 
